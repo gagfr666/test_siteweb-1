@@ -1,2 +1,11 @@
-# test_siteweb-1
-test site web #1 
+# Site de Test
+
+Site web ultra simple pour faire des tests.
+
+## Utilisation
+
+Ouvrir `index.html` dans un navigateur.
+
+## GitHub Pages
+
+Activer GitHub Pages sur la branche `main`, dossier racine.
